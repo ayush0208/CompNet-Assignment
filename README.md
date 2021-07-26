@@ -1,4 +1,4 @@
-# CompNet-Assignment
+# Computer Network
 contains the assignment done as part Computer Networks course CS F303 at BITS Pilani
 
 1. The assignment is an aim to implement file transfer protocols with appropriate assumptions.
